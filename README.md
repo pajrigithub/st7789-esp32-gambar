@@ -40,9 +40,9 @@ Proyek ini menunjukkan bagaimana cara menampilkan **gambar berwarna full 240x240
 #define TFT_CS   -1  // Tidak digunakan
 #define TFT_DC    2  // Data Command
 #define TFT_RST   4  // Reset
-```
 
----
+
+
 
 ## 🖼️ Konversi Gambar ke Format Array
 
