@@ -1,4 +1,4 @@
-# 🖼️ Tampilan Gambar di ST7789 TFT LCD 240×240 (ESP32 / ESP8266)
+# 🖼️ Tampilan Gambar di ST7789 TFT LCD 240×240 ESP32
 
 Proyek ini menunjukkan bagaimana cara menampilkan **gambar berwarna full 240x240** ke layar **TFT ST7789** menggunakan Arduino dan library `TFT_eSPI`.
 
