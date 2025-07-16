@@ -34,14 +34,16 @@ Proyek ini menunjukkan bagaimana cara menampilkan **gambar berwarna full 240x240
 1. Buka file "C:\Users\...\Documents\Arduino\libraries\TFT_eSPI\User_Setups\Setup24_ST7789.h"
 2. Pastikan baris konfigurasi seperti ini:
 
----
+```
 #define TFT_MISO -1  // Tidak digunakan (ST7789 hanya pakai MOSI)
 #define TFT_MOSI 26  // SDA
 #define TFT_SCLK 25  // SCL
 #define TFT_CS   -1  // Tidak digunakan
 #define TFT_DC    2  // Data Command
 #define TFT_RST   4  // Reset
----
+```
+
+
 
 
 
